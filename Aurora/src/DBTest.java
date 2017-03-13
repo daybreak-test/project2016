@@ -21,5 +21,4 @@ public class DBTest {
 		connection.close();
 		connection = null;
 	}
-
 }
